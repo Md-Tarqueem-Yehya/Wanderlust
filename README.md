@@ -45,7 +45,6 @@ In summary, the literature and background research provided a strong foundation 
 
 
 
-
 3. PROBLEM DEFINITION
 The travel and accommodation industry has seen a major digital shift over the past decade. The emergence of online rental platforms like Airbnb, Booking.com, and Vrbo has revolutionized how people travel. While these platforms cater to millions of users worldwide, they are also commercialized, complex, and at times, inaccessible to small-scale hosts or users in developing regions. There remains a need for simplified, scalable, and educationally viable alternatives that can help students understand and implement the core mechanics behind such systems.
 This project was initiated with the aim of bridging the gap between theoretical understanding and practical implementation of a rental platform. While the existing systems are highly optimized and feature-rich, they often present steep learning curves for novice developers or are not open-source enough to deconstruct and study effectively.
